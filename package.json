@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo for electron project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Xuanyuan Zhang",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.6"
+  }
+}
