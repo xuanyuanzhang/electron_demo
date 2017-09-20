@@ -1,7 +1,7 @@
 ### A Guideline through Electron and Three.js set up ###
 
 1. Install NPM, the package manager for JavaScript and 
-   the world’s largest software registry.
+   the world's largest software registry.
    Link: https://www.npmjs.com/
 
 2. Install Electron
