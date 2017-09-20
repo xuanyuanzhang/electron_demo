@@ -22,7 +22,7 @@ app.on('ready', function(){
 // Here is how we read a txt file
 
 const fs = require('fs');
-const data = fs.readFileSync('~/../dummy.txt');
+const data = fs.readFileSync('~/../source/dummy.txt');
 console.log(data.toString());
 
 
