@@ -7,7 +7,7 @@ const fs = require('fs');
 const rows = fs.readFileSync('~/../source/data.txt').toString().split('\n');
 let res = [];
 
-for (i=0; i<rows.length; i++){
+for (let i=0; i<rows.length; i++){
     res[i] = rows[i].split(',');
     // console.log(res[i]);
 }
